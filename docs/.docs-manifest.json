@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "repo": "pfree-PDP/soccer-club-book",
+  "branch": "master",
+  "last_updated": "2026-07-27T17:35:31Z",
+  "documents": [
+    {
+      "path": "guides/07_author_style_guide.md",
+      "title": "07_Author_Style_Guide",
+      "category": "guides",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "version": "1.0",
+      "archived_versions": []
+    }
+  ]
+}
