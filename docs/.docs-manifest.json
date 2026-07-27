@@ -2,7 +2,7 @@
   "version": "1.0",
   "repo": "pfree-PDP/soccer-club-book",
   "branch": "master",
-  "last_updated": "2026-07-27T17:36:02Z",
+  "last_updated": "2026-07-27T17:36:03Z",
   "documents": [
     {
       "path": "guides/07_author_style_guide.md",
@@ -16,6 +16,15 @@
     {
       "path": "design/08_updated_editorial_framework.md",
       "title": "08_Updated_Editorial_Framework",
+      "category": "design",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "version": "1.0",
+      "archived_versions": []
+    },
+    {
+      "path": "design/editorial_assessment_editor_proposal.md",
+      "title": "Editorial_Assessment_Editor_Proposal",
       "category": "design",
       "created": "2026-07-27",
       "updated": "2026-07-27",
