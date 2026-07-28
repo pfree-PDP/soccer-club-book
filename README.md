@@ -24,6 +24,7 @@ A practical handbook on starting, running, managing, and scaling a soccer club â
 | [`docs/design/editorial_assessment_editor_proposal.md`](docs/design/editorial_assessment_editor_proposal.md) | Supporting assessment that informed the updated framework |
 | [`docs/reference/source_notes_catalog.md`](docs/reference/source_notes_catalog.md) | Catalog of preserved raw book source notes |
 | [`source-notes/`](source-notes/) | Raw notes captured from the author; retained without editorial rewriting |
+| [`source-uploads/`](source-uploads/) | Original uploaded source files retained verbatim for archival traceability |
 
 ## About
 
