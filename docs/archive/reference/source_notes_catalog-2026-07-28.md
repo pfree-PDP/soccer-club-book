@@ -13,4 +13,3 @@
 | `source-notes/03_chapter_3_notes.md` | Purpose, development, winning, and alignment notes | Active source material |
 | `source-notes/04_chapter_4_notes.md` | Building the player-centered team environment and role definitions | Active source material |
 | `source-notes/05_chapter_5_notes_incomplete.md` | Unfinished notes on protecting the environment and handling misalignment | Active source material |
-| `source-uploads/pasted_content.txt` | Original editor proposal supplied as a workspace upload | Verbatim source upload |

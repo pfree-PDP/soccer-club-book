@@ -2,7 +2,7 @@
   "version": "1.0",
   "repo": "pfree-PDP/soccer-club-book",
   "branch": "master",
-  "last_updated": "2026-07-27T17:36:05Z",
+  "last_updated": "2026-07-28T03:32:39Z",
   "documents": [
     {
       "path": "guides/07_author_style_guide.md",
@@ -36,9 +36,11 @@
       "title": "Source_Notes_Catalog",
       "category": "reference",
       "created": "2026-07-27",
-      "updated": "2026-07-27",
-      "version": "1.0",
-      "archived_versions": []
+      "updated": "2026-07-28",
+      "version": "1.1",
+      "archived_versions": [
+        "archive/reference/source_notes_catalog-2026-07-28.md"
+      ]
     }
   ]
 }
